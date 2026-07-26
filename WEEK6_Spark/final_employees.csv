@@ -1,0 +1,101 @@
+EmployeeID,Name,Age,Gender,Department,Designation,Salary,Experience,City,JoiningDate,Email,product_id,category,price,base_price,final_price
+1001,Ananya Sharma,45,Female,HR,Marketing Manager,44144,4,Noida,2024-03-25,ananya.sharma1@example.com,2001,Electronics,49999,49999.0,58998.82
+1002,Divya Sharma,22,Male,HR,Marketing Manager,68118,20,Bangalore,2024-08-02,divya.sharma2@example.com,2002,Furniture,29999,29999.0,35398.82
+1003,Divya Singh,36,Female,Administration,Software Engineer,84729,6,Nagpur,2021-06-24,divya.singh3@example.com,2003,Clothing,7999,7999.0,9438.82
+1004,Vikram Singh,32,Male,IT,Operations Manager,41338,12,Chennai,2025-07-16,vikram.singh4@example.com,2004,Clothing,999,999.0,1178.82
+1005,Amit Roy,25,Female,IT,DevOps Engineer,54213,20,Chennai,2024-12-12,amit.roy5@example.com,2005,Furniture,1499,1499.0,1768.82
+1006,Priya Joshi,29,Female,IT,Marketing Manager,91785,4,Pune,2018-03-27,priya.joshi6@example.com,2006,Books,9999,9999.0,11798.82
+1007,Neha Gupta,33,Male,Operations,Sales Executive,80994,3,Lucknow,2015-11-02,neha.gupta7@example.com,2007,Sports,4999,4999.0,5898.82
+1008,Neha Iyer,34,Female,Operations,DevOps Engineer,49392,11,Kochi,2013-04-03,neha.iyer8@example.com,2008,Furniture,999,999.0,1178.82
+1009,Karan Mishra,30,Male,HR,Data Analyst,48934,16,Pune,2022-04-16,karan.mishra9@example.com,2009,Furniture,7999,7999.0,9438.82
+1010,Vikram Singh,45,Female,Operations,Operations Manager,93839,19,Pune,2020-02-13,vikram.singh10@example.com,2010,Furniture,2499,2499.0,2948.82
+1011,Arjun Iyer,24,Male,Administration,HR Executive,45016,6,Kochi,2021-06-20,arjun.iyer11@example.com,2011,Sports,1499,1499.0,1768.82
+1012,Sachin Mishra,41,Female,Sales,Sales Executive,71256,1,Noida,2014-07-27,sachin.mishra12@example.com,2012,Sports,7999,7999.0,9438.82
+1013,Karan Verma,31,Female,HR,Team Lead,35212,9,Jaipur,2016-01-03,karan.verma13@example.com,2013,Sports,1499,1499.0,1768.82
+1014,Pooja Yadav,42,Male,HR,Data Analyst,84971,6,Jaipur,2023-11-23,pooja.yadav14@example.com,2014,Electronics,49999,49999.0,58998.82
+1015,Karan Iyer,22,Male,Finance,Sales Executive,50692,2,Kolkata,2024-09-21,karan.iyer15@example.com,2015,Electronics,1499,1499.0,1768.82
+1016,Ritika Yadav,24,Male,HR,Team Lead,71031,6,Hyderabad,2023-11-01,ritika.yadav16@example.com,2016,Sports,15999,15999.0,18878.82
+1017,Rahul Sen,39,Male,Operations,Sales Executive,61148,12,Ahmedabad,2023-08-10,rahul.sen17@example.com,2017,Books,1499,1499.0,1768.82
+1018,Sneha Singh,24,Female,IT,DevOps Engineer,50080,19,Kolkata,2012-02-28,sneha.singh18@example.com,2018,Electronics,999,999.0,1178.82
+1019,Sneha Verma,23,Female,IT,DevOps Engineer,50597,9,Noida,2022-11-20,sneha.verma19@example.com,2019,Furniture,29999,29999.0,35398.82
+1020,Vikram Kumar,40,Female,HR,Team Lead,87920,14,Kolkata,2014-02-11,vikram.kumar20@example.com,2020,Electronics,15999,15999.0,18878.82
+1021,Meera Mishra,35,Female,Administration,Software Engineer,79129,4,Bangalore,2021-01-11,meera.mishra21@example.com,2021,Clothing,1499,1499.0,1768.82
+1022,Sneha Singh,28,Female,HR,Operations Manager,47025,9,Ahmedabad,2017-08-08,sneha.singh22@example.com,2022,Electronics,24999,24999.0,29498.82
+1023,Kavya Verma,23,Male,IT,Marketing Manager,45899,14,Ahmedabad,2022-10-18,kavya.verma23@example.com,2023,Furniture,15999,15999.0,18878.82
+1024,Priya Das,34,Male,Marketing,Sales Executive,86384,15,Hyderabad,2021-06-27,priya.das24@example.com,2024,Sports,24999,24999.0,29498.82
+1025,Vikram Singh,31,Male,IT,DevOps Engineer,38994,11,Bangalore,2013-02-14,vikram.singh25@example.com,2025,Sports,24999,24999.0,29498.82
+1026,Arjun Sen,38,Male,IT,DevOps Engineer,40250,6,Delhi,2025-05-06,arjun.sen26@example.com,2026,Electronics,4999,4999.0,5898.82
+1027,Sachin Verma,40,Male,Sales,Software Engineer,75591,3,Pune,2025-02-02,sachin.verma27@example.com,2027,Sports,29999,29999.0,35398.82
+1028,Karan Sen,30,Male,Operations,Data Analyst,50642,9,Pune,2014-12-08,karan.sen28@example.com,2028,Clothing,24999,24999.0,29498.82
+1029,Karan Sen,24,Male,Marketing,HR Executive,39801,18,Kolkata,2023-05-07,karan.sen29@example.com,2029,Clothing,2499,2499.0,2948.82
+1030,Meera Sen,24,Male,Finance,Sales Executive,45338,15,Jaipur,2018-10-14,meera.sen30@example.com,2030,Sports,29999,29999.0,35398.82
+1031,Aarav Joshi,39,Female,Operations,HR Executive,92548,5,Hyderabad,2014-08-03,aarav.joshi31@example.com,2031,Electronics,29999,29999.0,35398.82
+1032,Vikram Patel,31,Male,Operations,Data Analyst,48342,9,Jaipur,2022-12-16,vikram.patel32@example.com,2032,Clothing,999,999.0,1178.82
+1033,Rohan Joshi,35,Female,IT,Software Engineer,56859,5,Noida,2017-11-15,rohan.joshi33@example.com,2033,Furniture,24999,24999.0,29498.82
+1034,Kavya Kumar,35,Male,IT,HR Executive,92875,5,Jaipur,2012-10-22,kavya.kumar34@example.com,2034,Clothing,49999,49999.0,58998.82
+1035,Kavya Das,35,Male,IT,Sales Executive,58897,2,Chennai,2016-09-16,kavya.das35@example.com,2035,Furniture,1499,1499.0,1768.82
+1036,Meera Reddy,39,Female,Sales,Accountant,50514,6,Kochi,2015-12-21,meera.reddy36@example.com,2036,Books,999,999.0,1178.82
+1037,Neha Kumar,32,Female,Administration,Marketing Manager,52485,6,Kochi,2014-06-04,neha.kumar37@example.com,2037,Books,999,999.0,1178.82
+1038,Ritika Singh,28,Female,Finance,Sales Executive,88774,8,Kolkata,2012-07-12,ritika.singh38@example.com,2038,Furniture,15999,15999.0,18878.82
+1039,Karan Patel,24,Female,Finance,DevOps Engineer,61193,18,Chennai,2012-08-14,karan.patel39@example.com,2039,Electronics,7999,7999.0,9438.82
+1040,Neha Nair,30,Male,IT,Operations Manager,57654,11,Pune,2025-08-06,neha.nair40@example.com,2040,Sports,1499,1499.0,1768.82
+1041,Sachin Sen,40,Male,Finance,Software Engineer,81450,14,Bangalore,2023-08-30,sachin.sen41@example.com,2041,Sports,4999,4999.0,5898.82
+1042,Meera Mishra,24,Female,Sales,Data Analyst,78475,4,Nagpur,2018-09-26,meera.mishra42@example.com,2042,Sports,7999,7999.0,9438.82
+1043,Divya Gupta,34,Female,Sales,Accountant,47572,14,Noida,2020-07-02,divya.gupta43@example.com,2043,Furniture,49999,49999.0,58998.82
+1044,Nikhil Patel,34,Male,Finance,Sales Executive,48774,14,Kochi,2025-01-03,nikhil.patel44@example.com,2044,Sports,9999,9999.0,11798.82
+1045,Amit Iyer,36,Male,Sales,Team Lead,87018,6,Noida,2013-11-25,amit.iyer45@example.com,2045,Clothing,29999,29999.0,35398.82
+1046,Simran Gupta,24,Male,Operations,Sales Executive,49722,7,Mumbai,2012-07-19,simran.gupta46@example.com,2046,Electronics,4999,4999.0,5898.82
+1047,Ritika Nair,24,Female,Marketing,Marketing Manager,82077,13,Ahmedabad,2020-12-17,ritika.nair47@example.com,2047,Furniture,2499,2499.0,2948.82
+1048,Aarav Sen,25,Female,HR,Accountant,87698,17,Ahmedabad,2013-02-15,aarav.sen48@example.com,2048,Sports,4999,4999.0,5898.82
+1049,Ananya Iyer,26,Female,Operations,DevOps Engineer,71629,20,Chennai,2021-12-04,ananya.iyer49@example.com,2049,Sports,29999,29999.0,35398.82
+1050,Divya Yadav,39,Female,HR,Team Lead,64495,9,Kochi,2017-07-18,divya.yadav50@example.com,2050,Clothing,29999,29999.0,35398.82
+1051,Ritika Joshi,29,Female,Marketing,HR Executive,81762,10,Kolkata,2018-02-03,ritika.joshi51@example.com,2051,Clothing,9999,9999.0,11798.82
+1052,Kavya Verma,26,Male,HR,Operations Manager,80478,5,Nagpur,2016-10-18,kavya.verma52@example.com,2052,Electronics,15999,15999.0,18878.82
+1053,Divya Gupta,39,Female,Marketing,Software Engineer,48555,14,Pune,2025-02-05,divya.gupta53@example.com,2053,Electronics,49999,49999.0,58998.82
+1054,Sachin Iyer,22,Female,Finance,Operations Manager,90931,14,Jaipur,2024-03-31,sachin.iyer54@example.com,2054,Sports,4999,4999.0,5898.82
+1055,Ritika Singh,30,Female,Marketing,Software Engineer,60484,11,Noida,2021-01-25,ritika.singh55@example.com,2055,Furniture,24999,24999.0,29498.82
+1056,Vikram Nair,39,Male,Marketing,Software Engineer,40501,14,Mumbai,2022-05-10,vikram.nair56@example.com,2056,Furniture,999,999.0,1178.82
+1057,Aditya Mishra,32,Male,Marketing,Data Analyst,57118,13,Hyderabad,2021-06-15,aditya.mishra57@example.com,2057,Clothing,1499,1499.0,1768.82
+1058,Ritika Sharma,45,Male,Finance,Marketing Manager,77607,3,Kochi,2012-11-25,ritika.sharma58@example.com,2058,Electronics,4999,4999.0,5898.82
+1059,Rahul Yadav,22,Male,HR,Accountant,66035,4,Lucknow,2016-11-20,rahul.yadav59@example.com,2059,Books,7999,7999.0,9438.82
+1060,Meera Das,41,Male,Administration,Accountant,55384,4,Lucknow,2012-07-29,meera.das60@example.com,2060,Clothing,49999,49999.0,58998.82
+1061,Sachin Mishra,44,Male,IT,Marketing Manager,41678,10,Noida,2025-06-19,sachin.mishra61@example.com,2061,Electronics,49999,49999.0,58998.82
+1062,Priya Gupta,39,Female,Operations,Data Analyst,39519,17,Noida,2019-08-27,priya.gupta62@example.com,2062,Electronics,15999,15999.0,18878.82
+1063,Ritika Verma,35,Female,Operations,Team Lead,81354,5,Pune,2015-12-13,ritika.verma63@example.com,2063,Sports,7999,7999.0,9438.82
+1064,Simran Reddy,39,Female,Marketing,Operations Manager,89115,19,Hyderabad,2019-03-25,simran.reddy64@example.com,2064,Furniture,1499,1499.0,1768.82
+1065,Aditya Sen,36,Male,Administration,Team Lead,72345,20,Noida,2020-07-01,aditya.sen65@example.com,2065,Clothing,999,999.0,1178.82
+1066,Ritika Yadav,32,Male,Marketing,Marketing Manager,58253,9,Chennai,2018-04-09,ritika.yadav66@example.com,2066,Sports,7999,7999.0,9438.82
+1067,Kavya Sharma,38,Male,IT,Marketing Manager,82190,14,Ahmedabad,2024-06-14,kavya.sharma67@example.com,2067,Furniture,24999,24999.0,29498.82
+1068,Ritika Iyer,22,Male,Finance,Marketing Manager,61502,8,Hyderabad,2025-01-16,ritika.iyer68@example.com,2068,Clothing,24999,24999.0,29498.82
+1069,Kavya Roy,33,Female,Operations,DevOps Engineer,56678,12,Nagpur,2022-03-06,kavya.roy69@example.com,2069,Clothing,7999,7999.0,9438.82
+1070,Aditya Singh,25,Male,Finance,HR Executive,83685,18,Kochi,2016-02-25,aditya.singh70@example.com,2070,Furniture,4999,4999.0,5898.82
+1071,Ritika Patel,45,Female,IT,Marketing Manager,54414,8,Chennai,2016-01-09,ritika.patel71@example.com,2071,Clothing,999,999.0,1178.82
+1072,Kavya Das,30,Male,IT,DevOps Engineer,54145,5,Noida,2023-01-04,kavya.das72@example.com,2072,Electronics,999,999.0,1178.82
+1073,Nikhil Patel,37,Female,Marketing,Data Analyst,47082,2,Hyderabad,2022-09-18,nikhil.patel73@example.com,2073,Electronics,1499,1499.0,1768.82
+1074,Sachin Iyer,24,Male,HR,Accountant,88159,19,Hyderabad,2013-11-28,sachin.iyer74@example.com,2074,Furniture,1499,1499.0,1768.82
+1075,Kavya Reddy,35,Male,Administration,DevOps Engineer,59928,15,Ahmedabad,2018-09-01,kavya.reddy75@example.com,2075,Sports,15999,15999.0,18878.82
+1076,Pooja Nair,41,Male,Sales,HR Executive,84986,7,Noida,2016-09-24,pooja.nair76@example.com,2076,Clothing,1499,1499.0,1768.82
+1077,Neha Singh,27,Male,HR,Software Engineer,61772,15,Nagpur,2025-04-26,neha.singh77@example.com,2077,Books,7999,7999.0,9438.82
+1078,Priya Singh,31,Female,Operations,Team Lead,39664,8,Hyderabad,2025-03-24,priya.singh78@example.com,2078,Furniture,15999,15999.0,18878.82
+1079,Ananya Roy,29,Male,Finance,Accountant,39679,2,Mumbai,2018-11-24,ananya.roy79@example.com,2079,Sports,49999,49999.0,58998.82
+1080,Pooja Iyer,25,Female,Operations,Sales Executive,80857,13,Hyderabad,2023-03-23,pooja.iyer80@example.com,2080,Sports,24999,24999.0,29498.82
+1081,Amit Verma,41,Male,Marketing,Data Analyst,74564,9,Bangalore,2014-01-18,amit.verma81@example.com,2081,Furniture,49999,49999.0,58998.82
+1082,Nikhil Sharma,43,Female,Sales,Software Engineer,85011,6,Ahmedabad,2023-08-22,nikhil.sharma82@example.com,2082,Books,7999,7999.0,9438.82
+1083,Neha Nair,35,Female,IT,Team Lead,57803,14,Chennai,2019-03-15,neha.nair83@example.com,2083,Electronics,2499,2499.0,2948.82
+1084,Karan Mishra,44,Female,Finance,Operations Manager,88317,18,Bangalore,2022-03-14,karan.mishra84@example.com,2084,Electronics,9999,9999.0,11798.82
+1085,Aditya Gupta,25,Female,Administration,DevOps Engineer,89062,1,Noida,2024-03-02,aditya.gupta85@example.com,2085,Books,15999,15999.0,18878.82
+1086,Priya Singh,38,Female,Sales,Team Lead,75986,15,Kochi,2013-02-26,priya.singh86@example.com,2086,Furniture,7999,7999.0,9438.82
+1087,Kavya Das,31,Female,Operations,Team Lead,42957,1,Noida,2025-08-27,kavya.das87@example.com,2087,Furniture,2499,2499.0,2948.82
+1088,Pooja Roy,22,Female,IT,Marketing Manager,90142,4,Ahmedabad,2014-08-20,pooja.roy88@example.com,2088,Furniture,24999,24999.0,29498.82
+1089,Pooja Roy,44,Female,Marketing,Team Lead,65947,8,Ahmedabad,2024-05-12,pooja.roy89@example.com,2089,Furniture,15999,15999.0,18878.82
+1090,Rahul Sen,41,Male,Administration,HR Executive,53104,14,Chennai,2023-05-22,rahul.sen90@example.com,2090,Clothing,999,999.0,1178.82
+1091,Pooja Kumar,31,Female,Administration,Accountant,64264,18,Ahmedabad,2019-09-28,pooja.kumar91@example.com,2091,Clothing,29999,29999.0,35398.82
+1092,Kavya Mishra,36,Female,Administration,Marketing Manager,80711,8,Lucknow,2020-08-03,kavya.mishra92@example.com,2092,Furniture,15999,15999.0,18878.82
+1093,Priya Gupta,45,Female,Operations,Operations Manager,60302,5,Ahmedabad,2012-10-30,priya.gupta93@example.com,2093,Furniture,29999,29999.0,35398.82
+1094,Nikhil Gupta,25,Female,IT,DevOps Engineer,94666,15,Bangalore,2015-03-26,nikhil.gupta94@example.com,2094,Books,2499,2499.0,2948.82
+1095,Rohan Iyer,30,Female,Sales,Operations Manager,77587,3,Chennai,2023-12-20,rohan.iyer95@example.com,2095,Books,9999,9999.0,11798.82
+1096,Ritika Yadav,39,Male,Sales,HR Executive,50385,10,Kolkata,2014-01-10,ritika.yadav96@example.com,2096,Books,1499,1499.0,1768.82
+1097,Ananya Iyer,27,Female,IT,Software Engineer,56258,2,Hyderabad,2020-01-15,ananya.iyer97@example.com,2097,Clothing,15999,15999.0,18878.82
+1098,Vikram Singh,38,Female,Sales,Accountant,46140,6,Delhi,2025-09-01,vikram.singh98@example.com,2098,Books,49999,49999.0,58998.82
+1099,Sneha Iyer,40,Male,HR,Team Lead,76805,9,Ahmedabad,2017-09-22,sneha.iyer99@example.com,2099,Electronics,24999,24999.0,29498.82
+1100,Pooja Joshi,39,Male,IT,Team Lead,57646,19,Hyderabad,2021-07-07,pooja.joshi100@example.com,2100,Clothing,24999,24999.0,29498.82
