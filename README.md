@@ -26,3 +26,9 @@ Week 6 Assignment :- ( Spark Intro )
 Spark_Intro.ipynb
 final_employees.csv
 Screenshots ( Spark Query Outputs )
+
+Week 7 Assignment :- ( DataBricks )
+
+Data Bricks Assignment.ipynb
+Sample - Superstore.csv
+Cleaned_Superstore.csv
