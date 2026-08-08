@@ -1,0 +1,57 @@
+{
+    "timestamp": "2026-07-31T21:38:55.238799",
+    "datasets": {
+        "customers": {
+            "raw_rows": 505,
+            "cleaned_rows": 489,
+            "rows_dropped": 16,
+            "issues_found": {
+                "invalid_emails": 11,
+                "duplicate_ids": 5,
+                "null_dates": 11
+            }
+        },
+        "products": {
+            "raw_rows": 101,
+            "cleaned_rows": 100,
+            "rows_dropped": 1,
+            "issues_found": {
+                "duplicate_ids": 1,
+                "invalid_cost": 0,
+                "null_subcategory": 6
+            }
+        },
+        "orders": {
+            "raw_rows": 1020,
+            "cleaned_rows": 802,
+            "rows_dropped": 218,
+            "issues_found": {
+                "duplicate_ids": 20,
+                "future_dates": 14,
+                "null_customer_id": 48,
+                "invalid_status": 0,
+                "invalid_region": 0,
+                "referential_violations": 46
+            }
+        },
+        "order_items": {
+            "raw_rows": 2000,
+            "cleaned_rows": 1391,
+            "rows_dropped": 609,
+            "issues_found": {
+                "invalid_quantity": 132,
+                "invalid_price": 8,
+                "invalid_discount": 39,
+                "referential_violations": 469,
+                "duplicate_ids": 0
+            }
+        }
+    },
+    "referential_integrity": {
+        "valid_relationships": 1391,
+        "violations": 469,
+        "pass": false
+    },
+    "data_loss_percent": 23.28,
+    "cleaning_duration_seconds": 0.03
+}
